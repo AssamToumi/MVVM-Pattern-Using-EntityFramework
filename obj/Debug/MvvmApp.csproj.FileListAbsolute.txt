@@ -1,0 +1,42 @@
+B:\Sources\MvvmApp\bin\Debug\MvvmApp.exe.config
+B:\Sources\MvvmApp\bin\Debug\MvvmApp.exe
+B:\Sources\MvvmApp\bin\Debug\MvvmApp.pdb
+B:\Sources\MvvmApp\obj\Debug\MvvmApp.csprojAssemblyReference.cache
+B:\Sources\MvvmApp\obj\Debug\MainWindow.g.cs
+B:\Sources\MvvmApp\obj\Debug\Views\EmployeeView.g.cs
+B:\Sources\MvvmApp\obj\Debug\App.g.cs
+B:\Sources\MvvmApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+B:\Sources\MvvmApp\obj\Debug\MvvmApp_MarkupCompile.cache
+B:\Sources\MvvmApp\obj\Debug\MvvmApp_MarkupCompile.lref
+B:\Sources\MvvmApp\obj\Debug\MainWindow.baml
+B:\Sources\MvvmApp\obj\Debug\Views\EmployeeView.baml
+B:\Sources\MvvmApp\obj\Debug\MvvmApp.g.resources
+B:\Sources\MvvmApp\obj\Debug\MvvmApp.Properties.Resources.resources
+B:\Sources\MvvmApp\obj\Debug\MvvmApp.csproj.GenerateResource.cache
+B:\Sources\MvvmApp\obj\Debug\MvvmApp.csproj.CoreCompileInputs.cache
+B:\Sources\MvvmApp\obj\Debug\MvvmApp.exe
+B:\Sources\MvvmApp\obj\Debug\MvvmApp.pdb
+B:\Sources\MVVM Pattern Using EntityFramework\bin\Debug\MvvmApp.exe.config
+B:\Sources\MVVM Pattern Using EntityFramework\bin\Debug\MvvmApp.exe
+B:\Sources\MVVM Pattern Using EntityFramework\bin\Debug\MvvmApp.pdb
+B:\Sources\MVVM Pattern Using EntityFramework\bin\Debug\EntityFramework.dll
+B:\Sources\MVVM Pattern Using EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+B:\Sources\MVVM Pattern Using EntityFramework\bin\Debug\EntityFramework.xml
+B:\Sources\MVVM Pattern Using EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MvvmApp.csprojAssemblyReference.cache
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MainWindow.g.cs
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\Views\EmployeeView.g.cs
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\App.g.cs
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MvvmApp_Content.g.cs
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\GeneratedInternalTypeHelper.g.cs
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MvvmApp_MarkupCompile.cache
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MvvmApp_MarkupCompile.lref
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MainWindow.baml
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\Views\EmployeeView.baml
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MvvmApp.g.resources
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MvvmApp.Properties.Resources.resources
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MvvmApp.csproj.GenerateResource.cache
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MvvmApp.csproj.CoreCompileInputs.cache
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MvvmApp.csproj.CopyComplete
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MvvmApp.exe
+B:\Sources\MVVM Pattern Using EntityFramework\obj\Debug\MvvmApp.pdb
